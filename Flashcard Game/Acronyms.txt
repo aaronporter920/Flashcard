@@ -1,0 +1,246 @@
+3DES - Triple Digital Encryption Standard
+AAA - Authentication, Authorization, and Accounting
+ACL - Access Control List
+AES - Advanced Encryption Standard
+AES256 - Advanced Encryption Standards 256bit
+AH - Authentication Header
+ALE - Annualized Loss Expectancy
+AP - Access Point
+API - Application Programming Interface
+ASP - Application Service Provider
+ARO - Annualized Rate of Occurrence
+ARP - Address Resolution Protocol
+AUP - Acceptable Use Policy
+BAC - Business Availability Center
+BCP - Business Continuity Planning
+BIA - Business Impact Analysis
+BIOS - Basic Input / Output System
+BPA - Business Partners Agreement
+BPDU - Bridge Protocol Data Unit
+BYOD - Bring Your Own Device
+CA - Certificate Authority
+CAC - Common Access Card
+CAN - Controller Area Network
+CAPTCHA - Completely Automated Public Turing Test to Tell Computers and Humans Apart
+CAR - Corrective Action Report
+CCMP - Counter-Mode/CBC-Mac Protocol
+CCTV - Closed-circuit television
+CERT - Computer Emergency Response Team
+CFB - Cipher Feedback
+CHAP - Challenge Handshake Authentication Protocol
+CIO - Chief Information Officer
+CIRT - Computer Incident Response Team
+CMS - Content Management System
+COOP - Continuity of Operation Planning
+CP - Contingency Planning
+CRC - Cyclical Redundancy Check
+CRL - Certificate Signing Request
+CSP - Cloud Service Provider 
+CSR - Control Status Register
+CSRF - Cross-Site Request Forgery
+CSU - Channel Service Unit
+CTO - Chief Technology Officer
+DAC - Discretionary Access Control
+DBA - Database Administrator
+DDOS - Distributed Denial of Service
+DEP - Data Execution Prevention
+DES - Digital Encryption Standard
+DHCP - Dynamic Host Configuration Protocol
+DHE - Data-Handling Electronics
+DHE - Diffie-Hellman Ephemeral
+DLL - Dynamic Link Library
+DLP - Data Loss Prevention
+DMZ - Demilitarized Zone
+DNAT - Destination Network Address Transaction
+DNS - Domain Name Service (Server)
+DOS - Denial of Service
+DRP - Disaster Recovery Plan
+DSA - Digital Signature Algorithm
+DSL - Digital Subscriber line
+DSU - Data Service Unit
+EAP - Extensible Authentication Protocol
+ECC - Elliptic Curve Cryptography
+ECDHE - Elliptic Curve Diffie-Hellman Exchange
+ECDSA - Elliptic Curve Digital Signature Algorithm
+EFS - Encrypted File System
+EMI - Electromagnetic Interference
+ESN - Electronic Serial Number
+ESP - Encapsulated Security Payload
+FACL - File System Access Control List
+FDE - Full Disk Encryption
+FTP - File Transfer Protocol
+FTPS - Secured File Transfer Protocol
+GCM - Galois Counter Mode
+GPG - Gnu Privacy Guard
+GPO - Group Policy Object
+GPS - Global Positioning System
+GPU - Graphic Processing Unit
+GRE - Generic Routing Encapsulation
+HDD - Hard Disk Drive
+HIDS - Host Based Intrusion Detection System
+HIPS - Host Based Intrusion Prevention System
+HMAC - Hashed Message Authentication Code
+HOTP - HMAC based One Time Password
+HSM - Hardware Security Module
+HTML - HyperText Markup Language
+HTTP - Hypertext Transfer Protocol
+HTTPS - Hypertext Transfer Protocol over SSL
+HVAC - Heating, Ventilation Air Conditioning
+IaaS - Infrastructure as a Service
+ICMP - Internet Control Message Protocol
+ICS - Industrial Control Systems
+ID - Identification
+IDF - Intermeidate Distribution Frame
+IdP - Identity Provider
+IDS - Intrusion Detection System
+IKE - Internet Key Exchange
+IM - Instant messaging
+IMAP4 - Internet Message Access Protocol v4
+IP - Internet Protocol
+IPSEC - Internet Protocol Security
+IR - Incident Response
+IRC - Internet Relay Chat
+IRP - Incident Response Procedure
+ISA - Interconnection Security Agreement
+ISP - Internet Service Provider
+ISSO - Information Systems Security Officer
+ITCP - IT Contingency Plan
+IV - Initialization Vector
+JBOD - Just a Bunch of Disks
+KDC - Key Distribution Center
+KEK - Key Encryption Key
+L2TP - Layer 2 Tunneling Protocol
+LAN - Local Area Network
+LDAP - Lightweight Directory Access Protocol
+LEAP - Lightweight Extensible Authentication Protocol
+MaaS - Monitoring as a Service
+MAC - Mandatory Access Control / Media Access Control / Message Authentication Code
+MAN - Metropolitan Area Network
+MBR - Master Boot Record
+MD5 - Message Digest 5
+MDF - Main Distribution Frame
+MITM - Man-in-the-Middle
+MOU - Memorandum of Understanding
+MPLS - Multi-Protocol Layer Switch
+MSCHAP - Microsoft Challenge Handshake Authentication Protocol
+MTBF - Mean Time Between Failures
+MTTR - Mean Time to Recover
+MTTF - Mean Time to Failure
+MTU - Maximum Transmission Unit
+NAC - Network Access Control
+NAT - Network Address Translation
+NDA - Non-Disclosure Agreement
+NFC - Near Field Communication
+NIDS - Network Based Intrusion Detection System
+NIPS - Network Based Intrusion Prevention System
+NIST - National Institute of Standards and Technology
+NOS - Network Operating System
+NTFS - New Technology File System
+NTLM - New Technology LANMAN
+NTP - Network Time Protocol
+OAUTH - Open Authorization
+OCSP - Online Certificate Status Protocol
+OLA - Open License Agreement
+OS - Operating System
+OVAL - Open Vulnerability Assessment Language
+P2P - Peer to Peer
+PAC - Proxy Auto Configuration
+PAM - Pluggable Authentication Modules
+PAP - Password Authentication Protocol
+PAT - Port Address Translation
+PBKDF2 - Password Based Key Derivation Function 2
+PBX - Private Branch Exchange
+PCAP - Packet Capture
+PEAP - Protected Extensible Authentication Protocol
+PED - Personal Electronic Device
+PFS - Perfect Forward Secrecy
+PGP - Pretty Good Privacy
+PII - Personally Identifiable Information
+PIV - Personal Identity Verification
+PKI - Public Key Infrastructure
+POTS - Plain Old Telephone Service
+PPP - Point-to-point Protocol
+PPTP - Point to Point Tunneling Protocol
+PSK - Pre-Shared Key
+PTZ - Pan-Tilt-Zoom
+RA - Recovery Agent
+RA - Registration Authority
+RAD - Rapid application development
+RADIUS - Remote Authentication Dial-in User Server
+RAID - Redundant Array of Inexpensive Disks
+RAS - Remote Access Server
+RBAC - Role Based Access Control
+RBAC - Rule Based Access Control
+RC4 - RSA Variable Key Size Encryption Algorithm
+RIPEMD - RACE Integrity Primitives Evaluation Message Digest
+ROI - Return of Investment
+RPO - Recovery Point Objective
+RSA - Rivest, Shamir, and Adleman
+RTO - Recovery Time Objective
+RTP - Real-Time Transport Protocol
+S/MIME - Secure / Multipurpose Internet Mail Extensions
+SAML - Security Assertions Markup Language
+SaaS - Software as a Service
+SAN - Storage Area Network
+SCADA - System Control and Data Acquisition
+SCAP - Security Content Automation Protocol
+SCEP - Simple Certificate Enrollment Protocol
+SCSI - Small Computer System Interface
+SDLC - Software Development Life Cycle
+SDLM - Software Development Life Cycle Methodology
+SEH - Structured Exception Handler
+SHA - Secure Hashing Algorithm
+SFTP - Secured File Transfer Protocol
+SHTTP - Secure Hypertext Transfer Protocol
+SIEM - Security Information and Event Management
+SIM - Subscriber Identity Module
+SLA - Service Level Agreement
+SLE - Single Loss Expectancy
+SMS - Short Message Service
+SMTP - Simple Mail Transfer Protocol
+SMTPS - Simple Mail Transfer Protocol Secure
+SNMP - Simple Network Management Protocol
+SOAP - Simple Object Access Protocol
+SONET - Synchronous Optical Network Technologies
+SPIM - Spam over Internet Messaging
+SQL - Structured Query Language
+SSD - Solid State Drive
+SSH - Secure Shell
+SSL - Secure Sockets Layer
+SSO - Single Sign On
+STP - Shielded Twisted Pair
+TACACS+ - Terminal Access Controller Access Control System
+TCP/IP - Transmission Control Protocol / Internet Protocol
+TGT - Ticket Granting Ticket
+TKIP - Temporal Key Integrity Protocol
+TLS - Transport Layer Security
+TOTP - Time-Based One-Time Password
+TPM - Trusted Platform Module
+TSIG - Transaction Signature
+UAT - User Acceptance Testing
+UEFI - Unified Extensible Firmware Interface
+UDP - User Datagram Protocol
+UPS - Uninterruptable Power Supply
+URI - Uniform Resource Identifier
+URL - Universal Resource Locator
+USB - Universal Serial Bus
+UTM - Unified Threat Management
+UTP - Unshielded Twisted Pair
+VDI - Virtualization Desktop Infrastructure
+VLAN - Virtual Local Area Network
+VLSM - Variable Length Subnet Masking
+VoIP - Voice over IP
+VPN - Virtual Private Network
+VTC - Video Teleconferencing
+WAF - Web-Application Firewall
+WAP - Wireless Access Point
+WEP - Wired Equivalent Privacy
+WIDS - Wireless Intrusion Detection System
+WIPS - Wireless Intrusion Prevention System
+WPA - Wireless Protected Access
+WPA2 - WiFi Protected Access 2
+WPS - WiFi Protected Setup
+WTLS - Wireless TLS
+XML - Extensible Markup Language
+XSRF - Cross-Site Request Forgery
+XSS - Cross-Site Scripting
